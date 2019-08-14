@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "Hilton api server for demo",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,7 +8,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rohit Katiyar",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.10.0",
